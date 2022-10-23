@@ -12,7 +12,7 @@ pantalla.
 public class Ejercicio_Var3 {
 
     public static void main(String[] args) {
-    String nombre = "José Nicolás Chamero Bravo";
+    String nombre = "Pepito Calzaslargas Sánchez";
         System.out.println("Mi nombre completo es " + nombre);
         
     }
