@@ -12,8 +12,8 @@ literal. Muestra los valores de esas variables por pantalla.
 public class Ejercicio_Var4 {
     
     public static void main(String[] args) {
-      String nombre = " José Nicolás Chamero Bravo, ";
-      String direccion = " Calle Don Juan de Austria, 29009, 1ºA ";
+      String nombre = "Pepito Calzaslargas Sánchez, ";
+      String direccion = " Calle Don Juan de Austria, 34042, 1ºA ";
       String telefono = " , 655 167 235. ";
       
         System.out.println("Aquí tienes mi nombre, dirección y número de teléfono :) : " + nombre + direccion + telefono);
